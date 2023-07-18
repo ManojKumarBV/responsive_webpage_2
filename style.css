@@ -198,7 +198,7 @@ section {
   color: var(--main-color);
 }
 
-.box .bx {
+.box .bx-cart-alt {
   background: var(--main-color);
   position: absolute;
   right: 0;
@@ -206,6 +206,14 @@ section {
   font-size: 20px;
   padding: 7px 10px;
   border-radius: 0 0.5rem 0 0.5rem;
+}
+
+.box .bx-food-tag {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 25px;
+  padding: 7px 10px;
 }
 
 .service-container {
